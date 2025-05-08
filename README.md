@@ -1,0 +1,2 @@
+# Magnetie
+mineing for MagnetPOW
