@@ -1,46 +1,18 @@
-Copyright (c) 2025 小原酱
+Copyright (c) 2025 Xiaoyuan-chan
 
-"Anti 996" License Version 1.0 (Draft)
+XYACE License Version 1.0 (Revised)
 
-Permission is hereby granted to any individual or legal entity
-obtaining a copy of this licensed work (including the source code,
-documentation and/or related items, hereinafter collectively referred
-to as the "licensed work"), free of charge, to deal with the licensed
-work for any purpose, including without limitation, the rights to use,
-reproduce, modify, prepare derivative works of, distribute, publish
-and sublicense the licensed work, subject to the following conditions:
+Permission is hereby granted, free of charge, to any individual or legal entity obtaining a copy of this licensed work (including source code, files, and/or related content, hereinafter referred to as the “Licensed Work”), to deal with the Licensed Work for **non-commercial purposes**, including but not limited to use, copy, modification, derivative creation, distribution, publication, and sublicensing, subject to the following conditions:
 
-1. The individual or the legal entity must conspicuously display,
-without modification, this License and the notice on each redistributed
-or derivative copy of the Licensed Work.
+"Non-commercial purposes" are defined as uses that do not aim to generate direct or indirect financial profit. This includes but is not limited to: selling the work, using it for ad-supported services, or redistributing it for profit. Accepting voluntary donations or participating in open-source funding programs (such as GitHub Sponsors, Patreon, etc.) is **not** considered commercial use.
 
-2. The individual or the legal entity must strictly comply with all
-applicable laws, regulations, rules and standards of the jurisdiction
-relating to labor and employment where the individual is physically
-located or where the individual was born or naturalized; or where the
-legal entity is registered or is operating (whichever is stricter). In
-case that the jurisdiction has no such laws, regulations, rules and
-standards or its laws, regulations, rules and standards are
-unenforceable, the individual or the legal entity are required to
-comply with Core International Labor Standards.
+The license is subject to the following terms:
 
-3. The individual or the legal entity shall not induce, suggest or force
-its employee(s), whether full-time or part-time, or its independent
-contractor(s), in any methods, to agree in oral or written form, to
-directly or indirectly restrict, weaken or relinquish his or her
-rights or remedies under such laws, regulations, rules and standards
-relating to labor and employment as mentioned above, no matter whether
-such written or oral agreements are enforceable under the laws of the
-said jurisdiction, nor shall such individual or the legal entity
-limit, in any methods, the rights of its employee(s) or independent
-contractor(s) from reporting or complaining to the copyright holder or
-relevant authorities monitoring the compliance of the license about
-its violation(s) of the said license.
+1. Each redistribution or derivative of the Licensed Work must retain the above copyright notice and this license without modification;
+2. The name, trademark, service mark, or other identifiers of the Licensed Work may not be used in any commercial activity;
+3. The author or copyright holder is not liable for any consequences arising from the use of this work, including but not limited to direct, indirect, incidental, special, or punitive damages;
+4. The work is provided “as is”, without any express or implied warranties, including but not limited to warranties of fitness, reliability, or completeness;
+5. The user assumes all risks associated with using this work, including but not limited to data loss, loss of profits, or other damages arising from its use;
+6. This license does not grant the user any rights under patents, trademarks, or other intellectual property;
+7. This license does not limit the rights of the original author or main branch maintainers, including but not limited to rights of use, copying, modification, distribution, or sublicensing of the Licensed Work.
 
-THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN ANY WAY CONNECTION WITH THE
-LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
