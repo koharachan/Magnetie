@@ -6,10 +6,8 @@
 ## 使用指南
 
 ### 1. 环境配置
-1. 创建并激活虚拟环境（推荐 Python 3.12）
+1. 激活虚拟环境（推荐 Python 3.12）
    ```bash
-   python -m venv .venv
-   
    # Windows
    .venv\Scripts\activate
    
