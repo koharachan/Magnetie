@@ -6,7 +6,9 @@
 ## 使用指南
 
 ### 1. 环境配置
-1. 激活虚拟环境（推荐 Python 3.12）
+1. 拉取 full 分支的.venv 文件夹
+
+2.激活虚拟环境（推荐 Python 3.12）
    ```bash
    # Windows
    .venv\Scripts\activate
@@ -15,7 +17,7 @@
    source .venv/bin/activate
    ```
 
-2. 安装依赖
+3.安装依赖
    ```bash
    pip install -r requirements.txt
    ```
